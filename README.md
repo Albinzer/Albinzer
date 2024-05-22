@@ -1,5 +1,5 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Albinzer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Albinzer/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Albinzer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Albinzer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/Albinzer)  
-### Hi there 👋, my name is Abu-Bakkar Siddik Zilhaj
+### Hi there 👋, I'm Abu-Bakkar Siddik Zilhaj
 #### A passionate Ai Enginneer from Bangladesh
 ![A passionate Ai Enginneer from Bangladesh](https://media.licdn.com/dms/image/D4D03AQFbh3MyNlmrkQ/profile-displayphoto-shrink_100_100/0/1706877945754?e=1721865600&v=beta&t=nsLodwR9F611DK_eCIX11ZHyY-vAvkUkMCU_TSuoF2M)
 
